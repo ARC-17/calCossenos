@@ -1,0 +1,2 @@
+# calCossenos
+Calcula cossenos.
